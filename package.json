@@ -1,0 +1,31 @@
+{
+  "name": "start_template",
+  "version": "1.0.0",
+  "description": "Empty basic gulp template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaKhariv/start_template_gulp.git"
+  },
+  "author": "Done and improved by Anna Khariv. Basic: https://habr.com/post/250569/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaKhariv/start_template_gulp/issues"
+  },
+  "homepage": "https://github.com/AnnaKhariv/start_template_gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0",
+    "gulp.spritesmith": "^6.9.0",
+    "imagemin-pngquant": "^5.1.0",
+    "rimraf": "^2.6.2"
+  }
+}

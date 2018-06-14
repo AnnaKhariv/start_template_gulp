@@ -1,0 +1,6 @@
+# file: ~/.gitignore_global
+.idea/
+.vs/
+
+node_modules/
+bower_components/
